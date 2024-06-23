@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+
+.chooser {
+    display: flex;
+}
+.chooser {
+    justify-content: center;
+    width: 100%;
+    height: 100px;
+}
